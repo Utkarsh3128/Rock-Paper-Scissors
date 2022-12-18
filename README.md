@@ -1,4 +1,8 @@
 # Rock-Paper-Scissors
-## This is a basic rock paper scissor game website made by using HTML5 , CSS3 and JavaScript
+## This is a basic rock paper scissor game
 
-[Live Preview](https://utkarsh3128.github.io/Rock-Paper-Scissors/)
+### Stack
+
+- [HTML5](https://utkarsh3128.github.io/Rock-Paper-Scissors/) - For the Structure of the website
+- [CSS3](https://www.w3schools.com/Css/) - For the Styling of the website
+- [JavaScript](https://www.javascript.com/) - For the behaviour of the website
